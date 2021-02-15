@@ -1,0 +1,25 @@
+
+body{
+  margin: 0;
+border:solid;
+}
+h1{
+  margin-top: 0;
+}
+.first{
+  background-color: #eaffd0;
+  padding: 1px;
+  height: 100px;
+}
+div.jokes-hindi {
+  position: absolute;
+  top: 70px;
+  left:400px;
+  right: 10px;
+  height: 10px;
+ font-size:25px;
+}
+.telugu-jokes{
+  top: 70px;
+  
+}
